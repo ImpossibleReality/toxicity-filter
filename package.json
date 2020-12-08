@@ -1,0 +1,23 @@
+{
+  "name": "toxicity-filter",
+  "version": "1.0.0",
+  "description": "A filter that should be used BEFORE an actual detection mechanism.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WickedTree/toxicity-filter.git"
+  },
+  "keywords": [
+    "toxicity",
+    "badwords"
+  ],
+  "author": "Wickedtree Development",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WickedTree/toxicity-filter/issues"
+  },
+  "homepage": "https://github.com/WickedTree/toxicity-filter#readme"
+}
