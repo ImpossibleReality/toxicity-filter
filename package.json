@@ -1,6 +1,6 @@
 {
   "name": "toxicity-filter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A filter that should be used BEFORE an actual detection mechanism.",
   "main": "index.js",
   "scripts": {

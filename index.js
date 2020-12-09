@@ -456,5 +456,9 @@ module.exports = [
     // for sentences like 'put my thing up your thing'
     "thing",
     "suck",
-    "stupid"
+    "stupid",
+    "murder",
+    "knife",
+    "phone",
+    "number"
  ]
